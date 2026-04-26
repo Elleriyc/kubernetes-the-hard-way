@@ -1,0 +1,5 @@
+
+# Kubernetes The Hard Way
+192.168.122.94 server.kubernetes.local server
+192.168.122.167 node-0.kubernetes.local node-0
+192.168.122.194 node-1.kubernetes.local node-1

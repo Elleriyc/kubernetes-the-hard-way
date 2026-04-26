@@ -49,3 +49,14 @@ service-account.pem
 service-account-csr.json
 *.swp
 .idea/
+# Certificats et clés privées
+*.crt
+*.key
+*.pem
+*.csr
+
+# Kubeconfigs (contiennent des credentials)
+*.kubeconfig
+
+# Clé de chiffrement
+encryption-config.yaml
